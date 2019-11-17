@@ -1,6 +1,6 @@
 {
-  "name": "hotzenplotz",
-  "version": "0.0.1",
+  "name": "@jubileesoft/hotzenplotz",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
